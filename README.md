@@ -21,7 +21,7 @@ $ cd splunkbox
 $ vagrant up
 ```
 
-After that, the Splunk web UI should be accessible via http://10.10.10.10:8000 with username *admin* password *admin*
+After that, the Splunk web UI should be accessible via http://10.10.10.10 with username *admin* password *admin*
 
 Removing VirtualMachine
 -----------------------
